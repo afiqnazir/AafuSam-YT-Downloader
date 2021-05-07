@@ -11,7 +11,7 @@ INSTRUCTIONS TO USE!
 2- cd AafuSam-YT-Downloader
 3- chmod +x *
 4- *apt install python* (for termux)      *apt install python3* (for kali linux)
-5- *pip install -r requirements* (for termux) and *python3 -m pip install -r requirements.txt* (for kali linux)
+5- *pip install -r requirements.txt* (for termux) and *python3 -m pip install -r requirements.txt* (for kali linux)
 6- *python main.py (for termux) *python3 main.py* (for kali linux)
 7- AND FOLLOW NEXT INBUILT INSTRUCTIONS
 
